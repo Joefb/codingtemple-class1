@@ -1,15 +1,14 @@
 li {
-  list-style-type: none;
   padding: 8px;
-  /* align-items: end; */
+  display: inline;
 }
 
 h1 {
   color: green;
-  /* text-align: center; */
 }
 
 header {
+  text-align: center;
 }
 
 body {
