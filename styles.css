@@ -1,4 +1,17 @@
-li {
+#name {
+  display: inline;
+}
+
+ul {
+  display: inline;
+}
+
+#features {
+  display: block;
+  list-style-type: circle;
+}
+
+#nav_bar {
   padding: 8px;
   display: inline;
   list-style-type: none;
