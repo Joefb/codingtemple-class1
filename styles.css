@@ -1,4 +1,9 @@
-#name {
+#header_name {
+  display: inline;
+  color: green;
+}
+
+nav {
   display: inline;
 }
 
@@ -15,10 +20,6 @@ ul {
   padding: 8px;
   display: inline;
   list-style-type: none;
-}
-
-h1 {
-  color: green;
 }
 
 header {
